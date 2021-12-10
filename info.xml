@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <extension key="eventbuttonlabel" type="module">
   <file>eventbuttonlabel</file>
-  <name>Event Button Labels</name>
+  <name>Event Registration Button Labels</name>
   <description>Allows ability to set the button label on Register and Confirm page of Event.</description>
   <license>AGPL-3.0</license>
   <maintainer>

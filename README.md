@@ -1,4 +1,6 @@
-# Event Button Label
+# EVENT REGISTRATION BUTTON LABEL
+
+![Screenshot](/images/event_registration_buttons.png)
 
 Allows ability to set the button label on Register and Confirm page of Event.
 
